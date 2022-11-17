@@ -1,0 +1,4 @@
+jupyterlab==3.3.3
+Faker==13.3.4
+faker-vehicle==0.2.0
+shortuuid==1.0.8
